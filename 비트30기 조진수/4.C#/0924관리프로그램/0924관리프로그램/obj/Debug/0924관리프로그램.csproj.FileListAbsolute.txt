@@ -1,0 +1,14 @@
+C:\Users\bit\Desktop\0924관리프로그램\0924관리프로그램\bin\Debug\0924관리프로그램.exe.config
+C:\Users\bit\Desktop\0924관리프로그램\0924관리프로그램\bin\Debug\0924관리프로그램.exe
+C:\Users\bit\Desktop\0924관리프로그램\0924관리프로그램\bin\Debug\0924관리프로그램.pdb
+C:\Users\bit\Desktop\0924관리프로그램\0924관리프로그램\obj\Debug\0924관리프로그램.csproj.CoreCompileInputs.cache
+C:\Users\bit\Desktop\0924관리프로그램\0924관리프로그램\obj\Debug\0924관리프로그램.exe
+C:\Users\bit\Desktop\0924관리프로그램\0924관리프로그램\obj\Debug\0924관리프로그램.pdb
+C:\Users\bit\Desktop\0924관리프로그램\0924관리프로그램\obj\Debug\0924관리프로그램.csprojAssemblyReference.cache
+C:\Users\bit\Desktop\C#\0924관리프로그램\0924관리프로그램\bin\Debug\0924관리프로그램.exe.config
+C:\Users\bit\Desktop\C#\0924관리프로그램\0924관리프로그램\bin\Debug\0924관리프로그램.exe
+C:\Users\bit\Desktop\C#\0924관리프로그램\0924관리프로그램\bin\Debug\0924관리프로그램.pdb
+C:\Users\bit\Desktop\C#\0924관리프로그램\0924관리프로그램\obj\Debug\0924관리프로그램.csprojAssemblyReference.cache
+C:\Users\bit\Desktop\C#\0924관리프로그램\0924관리프로그램\obj\Debug\0924관리프로그램.csproj.CoreCompileInputs.cache
+C:\Users\bit\Desktop\C#\0924관리프로그램\0924관리프로그램\obj\Debug\0924관리프로그램.exe
+C:\Users\bit\Desktop\C#\0924관리프로그램\0924관리프로그램\obj\Debug\0924관리프로그램.pdb

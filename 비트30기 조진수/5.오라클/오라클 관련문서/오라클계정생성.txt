@@ -1,0 +1,65 @@
+//패스워드 수정  ------------------------------------------
+cmd창
+1) sqlplus /nolog
+2) conn /as sysdba;
+3) alter user system identified by 1111;
+//========================================================
+
+
+//계정생성==================================================
+SQL> conn system/****
+         (* system 사용자로 접속)
+
+SQL> CREATE USER wb29 IDENTIFIED BY 1111;
+        (*wb29 , wb29 : 순서대로 id 와 pw 설정값임)
+
+SQL> GRANT resource, connect TO wb29;
+        (* wb29 을 가진 ID에 리소스 및 접속권한을 부여)
+
+       (* 계정생성 및 접속 권한 부여가 완료됨)
+
+SQL> conn wb29/wb29
+        (* 생성된 계정으로 접속)
+
+SQL> ALTER SESSION SET nls_date_format = 'DD-MON-RR';
+SQL> ALTER SESSION SET nls_date_format = 'RR/MM/DD';
+        (*해당 계정에서 사용할 날자 포맷 지정)
+
+================ 완료 ===============================
+
+       
+//접속권한부여
+grant resource, connect, create role,create session to 유저네임;
+
+grant resource, connect, create role,create session to friese;
+//======================================================
+
+
+//작업 table space 지정
+alter user 유저네임 default tablespace users;
+
+alter user friese default tablespace users;
+
+
+//임시 table space 지정
+alter user 유저네임 temporary tablespace temp;
+
+alter user friese temporary tablespace temp;
+
+
+시스템 권한 부여 예제
+
+SQL>GRANT CREATE USER, ALTER USER, DROP USER TO friese
+
+WITH ADMIN OPTION.
+
+권한이 부여되었습니다.
+
+ 
+
+*설명 : friese사용자에게 사용자를 생성, 수정, 삭제 할 수 있는 권한을 부여하고,
+
+friese 사용자도 다른 사용자에게 그 권한을 부여 할 수 있습니다.
+
+.
+

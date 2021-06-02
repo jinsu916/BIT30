@@ -1,0 +1,26 @@
+C:\Users\user\Desktop\2019_hong\xml\1002_openapi\1002_openapi\bin\Debug\1002_openapi.exe.config
+C:\Users\user\Desktop\2019_hong\xml\1002_openapi\1002_openapi\bin\Debug\1002_openapi.exe
+C:\Users\user\Desktop\2019_hong\xml\1002_openapi\1002_openapi\bin\Debug\1002_openapi.pdb
+C:\Users\user\Desktop\2019_hong\xml\1002_openapi\1002_openapi\obj\Debug\1002_openapi.csprojAssemblyReference.cache
+C:\Users\user\Desktop\2019_hong\xml\1002_openapi\1002_openapi\obj\Debug\_1002_openapi.Form1.resources
+C:\Users\user\Desktop\2019_hong\xml\1002_openapi\1002_openapi\obj\Debug\_1002_openapi.Properties.Resources.resources
+C:\Users\user\Desktop\2019_hong\xml\1002_openapi\1002_openapi\obj\Debug\1002_openapi.csproj.GenerateResource.cache
+C:\Users\user\Desktop\2019_hong\xml\1002_openapi\1002_openapi\obj\Debug\1002_openapi.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\2019_hong\xml\1002_openapi\1002_openapi\obj\Debug\1002_openapi.exe
+C:\Users\user\Desktop\2019_hong\xml\1002_openapi\1002_openapi\obj\Debug\1002_openapi.pdb
+C:\Users\bit\Documents\카카오톡 받은 파일\1002_openapi\1002_openapi\bin\Debug\1002_openapi.exe.config
+C:\Users\bit\Documents\카카오톡 받은 파일\1002_openapi\1002_openapi\bin\Debug\1002_openapi.exe
+C:\Users\bit\Documents\카카오톡 받은 파일\1002_openapi\1002_openapi\bin\Debug\1002_openapi.pdb
+C:\Users\bit\Documents\카카오톡 받은 파일\1002_openapi\1002_openapi\obj\Debug\_1002_openapi.Form1.resources
+C:\Users\bit\Documents\카카오톡 받은 파일\1002_openapi\1002_openapi\obj\Debug\_1002_openapi.Properties.Resources.resources
+C:\Users\bit\Documents\카카오톡 받은 파일\1002_openapi\1002_openapi\obj\Debug\1002_openapi.csproj.GenerateResource.cache
+C:\Users\bit\Documents\카카오톡 받은 파일\1002_openapi\1002_openapi\obj\Debug\1002_openapi.csproj.CoreCompileInputs.cache
+C:\Users\bit\Documents\카카오톡 받은 파일\1002_openapi\1002_openapi\obj\Debug\1002_openapi.exe
+C:\Users\bit\Documents\카카오톡 받은 파일\1002_openapi\1002_openapi\obj\Debug\1002_openapi.pdb
+C:\Users\bit\Documents\카카오톡 받은 파일\1002_openapi\1002_openapi\obj\Debug\_1002_openapi.Form2.resources
+C:\Users\bit\Documents\카카오톡 받은 파일\1002_openapi\1002_openapi\bin\Debug\Interop.WMPLib.dll
+C:\Users\bit\Documents\카카오톡 받은 파일\1002_openapi\1002_openapi\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\bit\Documents\카카오톡 받은 파일\1002_openapi\1002_openapi\obj\Debug\Interop.WMPLib.dll
+C:\Users\bit\Documents\카카오톡 받은 파일\1002_openapi\1002_openapi\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\bit\Documents\카카오톡 받은 파일\1002_openapi\1002_openapi\obj\Debug\1002_openapi.csproj.ResolveComReference.cache
+C:\Users\bit\Documents\카카오톡 받은 파일\1002_openapi\1002_openapi\obj\Debug\1002_openapi.csprojAssemblyReference.cache

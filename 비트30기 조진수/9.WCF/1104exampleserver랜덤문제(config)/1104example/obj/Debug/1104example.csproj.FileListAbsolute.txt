@@ -1,0 +1,7 @@
+C:\Users\bit\Desktop\WCF(1104)\1104example\1104example\bin\Debug\1104example.exe.config
+C:\Users\bit\Desktop\WCF(1104)\1104example\1104example\bin\Debug\1104example.exe
+C:\Users\bit\Desktop\WCF(1104)\1104example\1104example\bin\Debug\1104example.pdb
+C:\Users\bit\Desktop\WCF(1104)\1104example\1104example\obj\Debug\1104example.csprojAssemblyReference.cache
+C:\Users\bit\Desktop\WCF(1104)\1104example\1104example\obj\Debug\1104example.csproj.CoreCompileInputs.cache
+C:\Users\bit\Desktop\WCF(1104)\1104example\1104example\obj\Debug\1104example.exe
+C:\Users\bit\Desktop\WCF(1104)\1104example\1104example\obj\Debug\1104example.pdb

@@ -1,0 +1,10 @@
+C:\Users\bit\Desktop\1008성적관리\1008성적관리\bin\Debug\1008성적관리.exe.config
+C:\Users\bit\Desktop\1008성적관리\1008성적관리\bin\Debug\1008성적관리.exe
+C:\Users\bit\Desktop\1008성적관리\1008성적관리\bin\Debug\1008성적관리.pdb
+C:\Users\bit\Desktop\1008성적관리\1008성적관리\obj\Debug\1008성적관리.csprojAssemblyReference.cache
+C:\Users\bit\Desktop\1008성적관리\1008성적관리\obj\Debug\_1008성적관리.Form1.resources
+C:\Users\bit\Desktop\1008성적관리\1008성적관리\obj\Debug\_1008성적관리.Properties.Resources.resources
+C:\Users\bit\Desktop\1008성적관리\1008성적관리\obj\Debug\1008성적관리.csproj.GenerateResource.cache
+C:\Users\bit\Desktop\1008성적관리\1008성적관리\obj\Debug\1008성적관리.csproj.CoreCompileInputs.cache
+C:\Users\bit\Desktop\1008성적관리\1008성적관리\obj\Debug\1008성적관리.exe
+C:\Users\bit\Desktop\1008성적관리\1008성적관리\obj\Debug\1008성적관리.pdb

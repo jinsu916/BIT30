@@ -1,0 +1,7 @@
+C:\Users\bit\Desktop\비트30기 조진수\9.WCF\1105이중프로그램\1105이중프로그램\bin\1105이중프로그램.dll.config
+C:\Users\bit\Desktop\비트30기 조진수\9.WCF\1105이중프로그램\1105이중프로그램\bin\1105이중프로그램.dll
+C:\Users\bit\Desktop\비트30기 조진수\9.WCF\1105이중프로그램\1105이중프로그램\bin\1105이중프로그램.pdb
+C:\Users\bit\Desktop\비트30기 조진수\9.WCF\1105이중프로그램\1105이중프로그램\obj\Release\1105이중프로그램.csprojAssemblyReference.cache
+C:\Users\bit\Desktop\비트30기 조진수\9.WCF\1105이중프로그램\1105이중프로그램\obj\Release\1105이중프로그램.csproj.CoreCompileInputs.cache
+C:\Users\bit\Desktop\비트30기 조진수\9.WCF\1105이중프로그램\1105이중프로그램\obj\Release\1105이중프로그램.dll
+C:\Users\bit\Desktop\비트30기 조진수\9.WCF\1105이중프로그램\1105이중프로그램\obj\Release\1105이중프로그램.pdb

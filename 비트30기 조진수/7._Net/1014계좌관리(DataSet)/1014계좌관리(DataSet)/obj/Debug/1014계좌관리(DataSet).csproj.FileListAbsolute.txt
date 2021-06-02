@@ -1,0 +1,20 @@
+C:\Users\bit\Desktop\1014계좌관리(DataSet)\1014계좌관리(DataSet)\bin\Debug\1014계좌관리(DataSet).exe.config
+C:\Users\bit\Desktop\1014계좌관리(DataSet)\1014계좌관리(DataSet)\bin\Debug\1014계좌관리(DataSet).exe
+C:\Users\bit\Desktop\1014계좌관리(DataSet)\1014계좌관리(DataSet)\bin\Debug\1014계좌관리(DataSet).pdb
+C:\Users\bit\Desktop\1014계좌관리(DataSet)\1014계좌관리(DataSet)\obj\Debug\1014계좌관리(DataSet).csprojAssemblyReference.cache
+C:\Users\bit\Desktop\1014계좌관리(DataSet)\1014계좌관리(DataSet)\obj\Debug\_1014계좌관리_DataSet_.Form1.resources
+C:\Users\bit\Desktop\1014계좌관리(DataSet)\1014계좌관리(DataSet)\obj\Debug\_1014계좌관리_DataSet_.Properties.Resources.resources
+C:\Users\bit\Desktop\1014계좌관리(DataSet)\1014계좌관리(DataSet)\obj\Debug\1014계좌관리(DataSet).csproj.GenerateResource.cache
+C:\Users\bit\Desktop\1014계좌관리(DataSet)\1014계좌관리(DataSet)\obj\Debug\1014계좌관리(DataSet).csproj.CoreCompileInputs.cache
+C:\Users\bit\Desktop\1014계좌관리(DataSet)\1014계좌관리(DataSet)\obj\Debug\1014계좌관리(DataSet).exe
+C:\Users\bit\Desktop\1014계좌관리(DataSet)\1014계좌관리(DataSet)\obj\Debug\1014계좌관리(DataSet).pdb
+E:\비트30기 조진수\7._Net\1014계좌관리(DataSet)\1014계좌관리(DataSet)\bin\Debug\1014계좌관리(DataSet).exe.config
+E:\비트30기 조진수\7._Net\1014계좌관리(DataSet)\1014계좌관리(DataSet)\bin\Debug\1014계좌관리(DataSet).exe
+E:\비트30기 조진수\7._Net\1014계좌관리(DataSet)\1014계좌관리(DataSet)\bin\Debug\1014계좌관리(DataSet).pdb
+E:\비트30기 조진수\7._Net\1014계좌관리(DataSet)\1014계좌관리(DataSet)\obj\Debug\1014계좌관리(DataSet).csprojAssemblyReference.cache
+E:\비트30기 조진수\7._Net\1014계좌관리(DataSet)\1014계좌관리(DataSet)\obj\Debug\_1014계좌관리_DataSet_.Form1.resources
+E:\비트30기 조진수\7._Net\1014계좌관리(DataSet)\1014계좌관리(DataSet)\obj\Debug\_1014계좌관리_DataSet_.Properties.Resources.resources
+E:\비트30기 조진수\7._Net\1014계좌관리(DataSet)\1014계좌관리(DataSet)\obj\Debug\1014계좌관리(DataSet).csproj.GenerateResource.cache
+E:\비트30기 조진수\7._Net\1014계좌관리(DataSet)\1014계좌관리(DataSet)\obj\Debug\1014계좌관리(DataSet).csproj.CoreCompileInputs.cache
+E:\비트30기 조진수\7._Net\1014계좌관리(DataSet)\1014계좌관리(DataSet)\obj\Debug\1014계좌관리(DataSet).exe
+E:\비트30기 조진수\7._Net\1014계좌관리(DataSet)\1014계좌관리(DataSet)\obj\Debug\1014계좌관리(DataSet).pdb

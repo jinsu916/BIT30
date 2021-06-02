@@ -1,0 +1,5 @@
+﻿  wbserver.cpp
+c:\users\bit\desktop\network\0903\0903\wbserver.cpp(104): warning C4996: 'inet_ntoa': Use inet_ntop() or InetNtop() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\um\winsock2.h(1848): note: 'inet_ntoa' 선언을 참조하십시오.
+  server.cpp
+  0903.vcxproj -> C:\Users\bit\Desktop\network\0903\Debug\0903.exe

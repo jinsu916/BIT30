@@ -1,0 +1,7 @@
+C:\Users\bit\Desktop\WCF(1104)\exampleclient\exampleclient\obj\Debug\exampleclient.csprojAssemblyReference.cache
+C:\Users\bit\Desktop\WCF(1104)\exampleclient\exampleclient\obj\Debug\exampleclient.csproj.CoreCompileInputs.cache
+C:\Users\bit\Desktop\WCF(1104)\exampleclient\exampleclient\bin\Debug\exampleclient.exe.config
+C:\Users\bit\Desktop\WCF(1104)\exampleclient\exampleclient\bin\Debug\exampleclient.exe
+C:\Users\bit\Desktop\WCF(1104)\exampleclient\exampleclient\bin\Debug\exampleclient.pdb
+C:\Users\bit\Desktop\WCF(1104)\exampleclient\exampleclient\obj\Debug\exampleclient.exe
+C:\Users\bit\Desktop\WCF(1104)\exampleclient\exampleclient\obj\Debug\exampleclient.pdb

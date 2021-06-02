@@ -1,0 +1,184 @@
+
+//고객 테이블
+create table customer
+(
+cs_id number(9) constraint pk_csid primary key,
+cs_name varchar2(20) not null,
+cs_gender varchar2(2) not null constraint cs_gender CHECK (cs_gender in('M','F')),
+cs_phone varchar2(20),
+cs_date date
+);
+
+//고객 시퀀스
+create sequence cs_register
+MINVALUE 1 
+MAXVALUE 999999999999999999999999999 
+INCREMENT BY 1 
+START WITH 1000
+NOORDER  
+NOCYCLE; 
+
+//계좌 테이블
+
+create table account
+(
+ac_id number(10) constraint pk_ac_id primary key,
+ac_money number(10) not null,
+ac_date date not null,
+ac_count number(10) not null constraint ac_count_ck CHECK (ac_count >= 0),
+cs_id number(4) not null default 0
+);
+
+ALTER TABLE account
+ADD CONSTRAINT fk_cs_id FOREIGN KEY(cs_id) 
+REFERENCES CUSTOMER(cs_id);
+
+//계좌 시퀀스
+create sequence ac_register
+increment by 10
+start with 10000;
+
+
+
+//입출금 테이블
+create table inout(
+io_id number(4)  constraint pk_ioid primary key,
+ac_id number(10) not null ,
+i_money number(10) not null constraint i_m CHECK (i_money >0),
+o_money number(10) not null constraint o_m CHECK (o_money >0),
+io_change number(10) not null ,
+io_date date not null
+);
+
+alter table inout
+add constraint fk_ac_id foreign key(ac_id)
+references account(ac_id)
+
+//입출금 시퀀스
+create sequence io_register
+MINVALUE 1 
+MAXVALUE 999999999999999999999999999 
+INCREMENT BY 1 
+START WITH 1
+NOORDER  
+NOCYCLE; 
+
+/////////////사용자정보 기능
+
+//기능1
+INSERT INTO customer  ( cs_id, cs_name, cs_gender, cs_phone, cs_date )
+VALUES (cs_register.nextval, '홍길동', 'M', '010-1111-1111', sysdate);
+
+//기능 2
+delete CUSTOMER
+where cs_id = 1000;
+
+//기능 3
+update customer
+set cs_phone = '010-2222-1323'
+where cs_id = 1000 and cs_phone = '010-1111-1111';
+
+//기능 4
+select *
+from customer;
+
+//기능 5
+select *
+from customer
+where cs_id = 1000;
+
+//기능 6
+select *
+from customer
+where cs_gender = 'F';
+
+//기능 7
+select *
+from customer
+where cs_date = '2019/01/01';
+
+//기능 8
+select *
+from customer
+order by cs_ID asc;
+
+/////////////계좌정보 기능
+
+//기능 1
+칼럼 삭제후
+
+alter table account
+add ac_money number(10) default 0;
+
+INSERT INTO account  ( ac_id,  ac_date, ac_count, cs_id)
+VALUES (ac_register.nextval, sysdate, 0, 1000);
+
+create table account
+
+
+//기능 2
+delete account
+where ac_id = 10220;
+
+//기능 3
+update account
+set AC_MONEY = 1000, ac_count = ac_count + 1
+where ac_id = 1000;
+
+//기능 4
+select *
+from account
+order by ac_money desc, ac_count;
+
+//기능 5
+select *
+from account
+where ac_id = 10220;
+
+//기능 6
+select ac_money
+from account
+where ac_id = 10220;
+
+update inout
+set io_change = (select ac_money from account where ac_id=10220);
+
+///////입출금 테이블 기능
+//기능 1
+insert into inout (io_id, ac_id, i_money, o_money, io_change, io_date)
+values (io_register.nextval, 10220, 3000, 1, 3000 - 1 + (select ac_money from account where ac_id = 10220), sysdate );
+
+//기능 2
+delete inout
+where ac_id = 10220;
+
+//기능 3
+select *
+from inout
+where ac_id = 10220
+order by io_id asc;
+
+//기능 4
+select *
+from inout
+where ac_id = 10220
+order by io_id desc;
+
+//기능 5
+select *
+from inout
+where ac_id = 10220 and io_date like ('2019/09/18%')
+order by io_id asc;
+
+//기능 6
+select *
+from inout
+where ac_id = 10220 and io_date between'2019/01/01' and '2019/12/31'
+order by io_id asc;
+
+//
+select *
+from account
+where cs_id = 1000;
+
+

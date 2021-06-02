@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.852
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0924 구조체", "0924 구조체\0924 구조체.csproj", "{EBBEA5FF-C9C6-4135-951E-3A1BB94CA46E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EBBEA5FF-C9C6-4135-951E-3A1BB94CA46E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EBBEA5FF-C9C6-4135-951E-3A1BB94CA46E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EBBEA5FF-C9C6-4135-951E-3A1BB94CA46E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EBBEA5FF-C9C6-4135-951E-3A1BB94CA46E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1757B01B-5CAE-4B6D-BFFA-1D3E2CD242C4}
+	EndGlobalSection
+EndGlobal

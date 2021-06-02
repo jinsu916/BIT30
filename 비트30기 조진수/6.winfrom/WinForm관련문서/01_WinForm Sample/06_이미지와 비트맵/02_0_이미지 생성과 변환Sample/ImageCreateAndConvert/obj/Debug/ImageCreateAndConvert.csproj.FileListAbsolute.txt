@@ -1,0 +1,8 @@
+C:\Users\user\Desktop\26기\06_WinForm\01_WinForm Sample\06_이미지와 비트맵\02_0_이미지 생성과 변환Sample\ImageCreateAndConvert\bin\Debug\ImageCreateAndConvert.exe
+C:\Users\user\Desktop\26기\06_WinForm\01_WinForm Sample\06_이미지와 비트맵\02_0_이미지 생성과 변환Sample\ImageCreateAndConvert\bin\Debug\ImageCreateAndConvert.pdb
+C:\Users\user\Desktop\26기\06_WinForm\01_WinForm Sample\06_이미지와 비트맵\02_0_이미지 생성과 변환Sample\ImageCreateAndConvert\obj\Debug\ImageCreateAndConvert.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\26기\06_WinForm\01_WinForm Sample\06_이미지와 비트맵\02_0_이미지 생성과 변환Sample\ImageCreateAndConvert\obj\Debug\ImageCreateAndConvert.Form1.resources
+C:\Users\user\Desktop\26기\06_WinForm\01_WinForm Sample\06_이미지와 비트맵\02_0_이미지 생성과 변환Sample\ImageCreateAndConvert\obj\Debug\ImageCreateAndConvert.Properties.Resources.resources
+C:\Users\user\Desktop\26기\06_WinForm\01_WinForm Sample\06_이미지와 비트맵\02_0_이미지 생성과 변환Sample\ImageCreateAndConvert\obj\Debug\ImageCreateAndConvert.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\26기\06_WinForm\01_WinForm Sample\06_이미지와 비트맵\02_0_이미지 생성과 변환Sample\ImageCreateAndConvert\obj\Debug\ImageCreateAndConvert.exe
+C:\Users\user\Desktop\26기\06_WinForm\01_WinForm Sample\06_이미지와 비트맵\02_0_이미지 생성과 변환Sample\ImageCreateAndConvert\obj\Debug\ImageCreateAndConvert.pdb

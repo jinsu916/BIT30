@@ -1,0 +1,24 @@
+C:\Users\bit\Desktop\1016씨샾TCP\1016씨샾TCP\bin\Debug\1016씨샾TCP.exe.config
+C:\Users\bit\Desktop\1016씨샾TCP\1016씨샾TCP\bin\Debug\1016씨샾TCP.exe
+C:\Users\bit\Desktop\1016씨샾TCP\1016씨샾TCP\bin\Debug\1016씨샾TCP.pdb
+C:\Users\bit\Desktop\1016씨샾TCP\1016씨샾TCP\obj\Debug\_1016씨샾TCP.Form1.resources
+C:\Users\bit\Desktop\1016씨샾TCP\1016씨샾TCP\obj\Debug\_1016씨샾TCP.Properties.Resources.resources
+C:\Users\bit\Desktop\1016씨샾TCP\1016씨샾TCP\obj\Debug\1016씨샾TCP.csproj.GenerateResource.cache
+C:\Users\bit\Desktop\1016씨샾TCP\1016씨샾TCP\obj\Debug\1016씨샾TCP.csproj.CoreCompileInputs.cache
+C:\Users\bit\Desktop\1016씨샾TCP\1016씨샾TCP\obj\Debug\1016씨샾TCP.exe
+C:\Users\bit\Desktop\1016씨샾TCP\1016씨샾TCP\obj\Debug\1016씨샾TCP.pdb
+C:\Users\bit\Desktop\1016씨샾TCP\1016씨샾TCP\obj\Debug\_1016씨샾TCP.Form2.resources
+C:\Users\bit\Desktop\1016씨샾TCP\1016씨샾TCP\obj\Debug\_1016씨샾TCP.Form3.resources
+C:\Users\bit\Desktop\1016씨샾TCP\1016씨샾TCP\obj\Debug\1016씨샾TCP.csprojAssemblyReference.cache
+E:\비트30기 조진수\7._Net\1016씨샾TCP\1016씨샾TCP\bin\Debug\1016씨샾TCP.exe.config
+E:\비트30기 조진수\7._Net\1016씨샾TCP\1016씨샾TCP\bin\Debug\1016씨샾TCP.exe
+E:\비트30기 조진수\7._Net\1016씨샾TCP\1016씨샾TCP\bin\Debug\1016씨샾TCP.pdb
+E:\비트30기 조진수\7._Net\1016씨샾TCP\1016씨샾TCP\obj\Debug\1016씨샾TCP.csprojAssemblyReference.cache
+E:\비트30기 조진수\7._Net\1016씨샾TCP\1016씨샾TCP\obj\Debug\_1016씨샾TCP.Form1.resources
+E:\비트30기 조진수\7._Net\1016씨샾TCP\1016씨샾TCP\obj\Debug\_1016씨샾TCP.Form2.resources
+E:\비트30기 조진수\7._Net\1016씨샾TCP\1016씨샾TCP\obj\Debug\_1016씨샾TCP.Form3.resources
+E:\비트30기 조진수\7._Net\1016씨샾TCP\1016씨샾TCP\obj\Debug\_1016씨샾TCP.Properties.Resources.resources
+E:\비트30기 조진수\7._Net\1016씨샾TCP\1016씨샾TCP\obj\Debug\1016씨샾TCP.csproj.GenerateResource.cache
+E:\비트30기 조진수\7._Net\1016씨샾TCP\1016씨샾TCP\obj\Debug\1016씨샾TCP.csproj.CoreCompileInputs.cache
+E:\비트30기 조진수\7._Net\1016씨샾TCP\1016씨샾TCP\obj\Debug\1016씨샾TCP.exe
+E:\비트30기 조진수\7._Net\1016씨샾TCP\1016씨샾TCP\obj\Debug\1016씨샾TCP.pdb

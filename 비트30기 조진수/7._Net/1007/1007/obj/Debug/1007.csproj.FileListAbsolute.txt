@@ -1,0 +1,10 @@
+C:\Users\bit\Desktop\1007\1007\bin\Debug\1007.exe.config
+C:\Users\bit\Desktop\1007\1007\bin\Debug\1007.exe
+C:\Users\bit\Desktop\1007\1007\bin\Debug\1007.pdb
+C:\Users\bit\Desktop\1007\1007\obj\Debug\1007.csprojAssemblyReference.cache
+C:\Users\bit\Desktop\1007\1007\obj\Debug\_1007.Form1.resources
+C:\Users\bit\Desktop\1007\1007\obj\Debug\_1007.Properties.Resources.resources
+C:\Users\bit\Desktop\1007\1007\obj\Debug\1007.csproj.GenerateResource.cache
+C:\Users\bit\Desktop\1007\1007\obj\Debug\1007.csproj.CoreCompileInputs.cache
+C:\Users\bit\Desktop\1007\1007\obj\Debug\1007.exe
+C:\Users\bit\Desktop\1007\1007\obj\Debug\1007.pdb

@@ -1,0 +1,35 @@
+static void Main(string[] args)
+{
+    AddBook("XML.NET", 15000, "홍길동", "9224764583");
+    AddBook("CSharp" , 18000, "홍길동", "9228964583");
+}
+private static void AddBook(string title, int price, string author, string isbn)
+{
+   string comtext = "insert into Books values (@Title, @Price,@Author,@ISBN)";
+
+   SqlCommand command = new SqlCommand(comtext, conn);
+   SqlParameter param_title = new SqlParameter("@Title", title);
+   command.Parameters.Add(param_title);
+
+   SqlParameter param_price = new SqlParameter();
+   param_price.ParameterName = "@Price";
+   param_price.SqlDbType = System.Data.SqlDbType.Int;
+   param_price.Value = price;
+   command.Parameters.Add(param_price);
+
+   SqlParameter param_author = new SqlParameter("@Author", author);
+   command.Parameters.Add(param_author);
+
+   SqlParameter param_isbn = new SqlParameter("@ISBN", isbn);
+   command.Parameters.Add(param_isbn);
+
+   if (command.ExecuteNonQuery() == 1)
+  {
+        Console.WriteLine("{0} 추가 성공", title);
+  }
+  else
+ {
+       Console.WriteLine("{0} 추가 실패", title);
+ }
+   
+}

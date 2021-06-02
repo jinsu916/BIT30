@@ -1,0 +1,40 @@
+﻿//---------------------------------------------------------------
+// SQL 데이터베이스 연결 
+//---------------------------------------------------------------
+
+using System;
+using System.Data;
+using System.Data.SqlClient;
+
+//----------------------------------------------------------
+// 서버 속성 변경 : 2개의 인증으로 접근 가능토록
+// 계정 생성      : Sql Server계정 생성
+//-----------------------------------------------------------
+class ConsoleConnection
+{
+    static void Main(string[] args)
+    {
+        SqlConnection conn = new SqlConnection();
+        conn.ConnectionString = @"Server=localhost\SQLEXPRESS;database=
+                                   master;uid=ccm1;pwd=1111;";
+
+        try
+        {
+            conn.Open();    //  데이터베이스 연결
+            Console.WriteLine("데이터베이스 연결 성공...");
+        }
+        catch (Exception ex)
+        {
+            Console.WriteLine("데이터베이스 연결 실패...");
+        }
+        finally
+        {
+            if (conn != null)
+            {
+                conn.Close();       //  연결 해제
+                Console.WriteLine("데이터베이스 연결 해제");
+            }
+        }
+    }
+}
+

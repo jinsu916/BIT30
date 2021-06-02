@@ -1,0 +1,5 @@
+﻿  handler.cpp
+c:\users\bit\desktop\network\0905\0905\handler.cpp(23): error C2664: 'void uipaint_Draw(POINTS,COLORREF)': 인수 1을(를) 'COLORREF'에서 'POINTS'(으)로 변환할 수 없습니다.
+  c:\users\bit\desktop\network\0905\0905\handler.cpp(23): note: 소스 형식을 가져올 수 있는 생성자가 없거나 생성자 오버로드 확인이 모호합니다.
+c:\users\bit\desktop\network\0905\0905\handler.cpp(52): error C3861: 'ui_SetAddress': 식별자를 찾을 수 없습니다.
+c:\users\bit\desktop\network\0905\0905\handler.cpp(73): error C2065: 'pack': 선언되지 않은 식별자입니다.

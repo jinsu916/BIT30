@@ -1,0 +1,31 @@
+﻿using System;
+
+namespace BitwiseOperator
+{
+    class MainApp
+    {
+        static uint FromARGB(uint A, uint R, uint G, uint B)
+        {
+            return (A << 24 & 0xFF000000) |
+                   (R << 16 & 0x00FF0000) |
+                   (G << 8 & 0x0000FF00) |
+                   (B & 0x000000FF);        
+        }
+
+        static void Main(string[] args)
+        {
+            var a = 0xFF000000;
+            Console.WriteLine("{0:X8}", FromARGB(0xFA, 0xF1, 0xF2, 0xF3));
+            Console.WriteLine("{0}", a.GetType());
+
+
+            for (int i = 0; i < 33; i++)
+            {
+                Console.WriteLine("{0:X8}", 1 << i);
+            }
+
+            Console.WriteLine("{0:X8}", 0xFFFFFFFF << 32);
+
+        }
+    }
+}

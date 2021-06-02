@@ -1,0 +1,14 @@
+C:\Users\bit\Desktop\비트30기 조진수\9.WCF\1105 1-1chat server\1105 1-1chat server\bin\Debug\1105 1-1chat server.exe.config
+C:\Users\bit\Desktop\비트30기 조진수\9.WCF\1105 1-1chat server\1105 1-1chat server\bin\Debug\1105 1-1chat server.exe
+C:\Users\bit\Desktop\비트30기 조진수\9.WCF\1105 1-1chat server\1105 1-1chat server\bin\Debug\1105 1-1chat server.pdb
+C:\Users\bit\Desktop\비트30기 조진수\9.WCF\1105 1-1chat server\1105 1-1chat server\obj\Debug\1105 1-1chat server.csprojAssemblyReference.cache
+C:\Users\bit\Desktop\비트30기 조진수\9.WCF\1105 1-1chat server\1105 1-1chat server\obj\Debug\1105 1-1chat server.csproj.CoreCompileInputs.cache
+C:\Users\bit\Desktop\비트30기 조진수\9.WCF\1105 1-1chat server\1105 1-1chat server\obj\Debug\1105 1-1chat server.exe
+C:\Users\bit\Desktop\비트30기 조진수\9.WCF\1105 1-1chat server\1105 1-1chat server\obj\Debug\1105 1-1chat server.pdb
+E:\비트30기 조진수\9.WCF\1105 1-1chat server\1105 1-1chat server\bin\Debug\1105 1-1chat server.exe.config
+E:\비트30기 조진수\9.WCF\1105 1-1chat server\1105 1-1chat server\bin\Debug\1105 1-1chat server.exe
+E:\비트30기 조진수\9.WCF\1105 1-1chat server\1105 1-1chat server\bin\Debug\1105 1-1chat server.pdb
+E:\비트30기 조진수\9.WCF\1105 1-1chat server\1105 1-1chat server\obj\Debug\1105 1-1chat server.csprojAssemblyReference.cache
+E:\비트30기 조진수\9.WCF\1105 1-1chat server\1105 1-1chat server\obj\Debug\1105 1-1chat server.csproj.CoreCompileInputs.cache
+E:\비트30기 조진수\9.WCF\1105 1-1chat server\1105 1-1chat server\obj\Debug\1105 1-1chat server.exe
+E:\비트30기 조진수\9.WCF\1105 1-1chat server\1105 1-1chat server\obj\Debug\1105 1-1chat server.pdb

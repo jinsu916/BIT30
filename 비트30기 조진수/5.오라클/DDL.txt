@@ -1,0 +1,38 @@
+//DDL
+//테이블 생성
+create table exam1
+(
+dno number(2),
+dname varchar2(14),
+loc varchar2(13)
+);
+
+//알터테이블
+//칼럼 추가
+alter table exam1
+add (birth date);
+
+//칼럼 변경
+alter table exam1
+modify BIRTH varchar2(30);
+
+//칼럼 제거
+alter table exam1
+drop column BIRTH;
+
+//칼럼 제거 (언유스)
+alter table exam1
+set unused (LOC);
+
+//칼럼 제거 (언유스 드랍)
+alter table exam1
+drop unused columns;
+
+//테이블명 변경
+rename exam1 to exam2;
+
+//데이블 제거
+drop table exam2;
+
+//데이블의 모든 로우 제거
+truncate table exam2;

@@ -1,0 +1,7 @@
+C:\Users\bit\Desktop\ExamTest\ExamTest\bin\Debug\ExamTest.exe.config
+C:\Users\bit\Desktop\ExamTest\ExamTest\bin\Debug\ExamTest.exe
+C:\Users\bit\Desktop\ExamTest\ExamTest\bin\Debug\ExamTest.pdb
+C:\Users\bit\Desktop\ExamTest\ExamTest\obj\Debug\ExamTest.csprojAssemblyReference.cache
+C:\Users\bit\Desktop\ExamTest\ExamTest\obj\Debug\ExamTest.csproj.CoreCompileInputs.cache
+C:\Users\bit\Desktop\ExamTest\ExamTest\obj\Debug\ExamTest.exe
+C:\Users\bit\Desktop\ExamTest\ExamTest\obj\Debug\ExamTest.pdb

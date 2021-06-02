@@ -1,0 +1,7 @@
+C:\Users\bit\Desktop\0923\0923\bin\Debug\0923.exe.config
+C:\Users\bit\Desktop\0923\0923\bin\Debug\0923.exe
+C:\Users\bit\Desktop\0923\0923\bin\Debug\0923.pdb
+C:\Users\bit\Desktop\0923\0923\obj\Debug\0923.csprojAssemblyReference.cache
+C:\Users\bit\Desktop\0923\0923\obj\Debug\0923.csproj.CoreCompileInputs.cache
+C:\Users\bit\Desktop\0923\0923\obj\Debug\0923.exe
+C:\Users\bit\Desktop\0923\0923\obj\Debug\0923.pdb

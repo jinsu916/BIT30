@@ -1,0 +1,12 @@
+C:\Users\bit\Desktop\WINFORM\자판기\자판기\bin\Debug\자판기.exe.config
+C:\Users\bit\Desktop\WINFORM\자판기\자판기\bin\Debug\자판기.exe
+C:\Users\bit\Desktop\WINFORM\자판기\자판기\bin\Debug\자판기.pdb
+C:\Users\bit\Desktop\WINFORM\자판기\자판기\obj\Debug\자판기.Form1.resources
+C:\Users\bit\Desktop\WINFORM\자판기\자판기\obj\Debug\자판기.Properties.Resources.resources
+C:\Users\bit\Desktop\WINFORM\자판기\자판기\obj\Debug\자판기.csproj.GenerateResource.cache
+C:\Users\bit\Desktop\WINFORM\자판기\자판기\obj\Debug\자판기.csproj.CoreCompileInputs.cache
+C:\Users\bit\Desktop\WINFORM\자판기\자판기\obj\Debug\자판기.exe
+C:\Users\bit\Desktop\WINFORM\자판기\자판기\obj\Debug\자판기.pdb
+C:\Users\bit\Desktop\WINFORM\자판기\자판기\obj\Debug\자판기.Form2.resources
+C:\Users\bit\Desktop\WINFORM\자판기\자판기\obj\Debug\자판기.Form3.resources
+C:\Users\bit\Desktop\WINFORM\자판기\자판기\obj\Debug\자판기.csprojAssemblyReference.cache

@@ -1,0 +1,72 @@
+//제약조건
+
+CREATE TABLE customer(
+                         id           VARCHAR2(20) NOT NULL,
+                         pwd          VARCHAR2(20) NOT NULL,
+                         name         VARCHAR2(20) NOT NULL,
+                         phone        VARCHAR2(30) ,
+                         address      VARCHAR2(100)
+                      );
+          
+
+ CREATE TABLE customer(
+                         id           VARCHAR2(20) unique,
+                         pwd          VARCHAR2(20) NOT NULL,
+                         name         VARCHAR2(20) NOT NULL,
+                         phone        VARCHAR2(30) ,
+                         address      VARCHAR2(100)
+                      );
+                      
+//유니크, 낫널 제약조건
+ CREATE TABLE customer(
+                       id        VARCHAR2(20) constraint customer_id_uk unique,
+                       pwd       VARCHAR2(20) constraint customer_pwd_nn NOT NULL,
+                       name      VARCHAR2(30) constraint customer_name_nn NOT NULL,
+                       phone     VARCHAR2(30) ,
+                       address   VARCHAR2(100)
+                      );
+
+//PK제약조건
+CREATE TABLE customer1(
+                      id        VARCHAR(20),
+                      pwd       VARCHAR(20) constraint customer_pwd_nn not null,
+                      name      VARCHAR(20) constraint customer_name_nn not null,
+                      phone     VARCHAR(30),
+                      Address   VARCHAR(100),
+                      CONSTRAINT customer_id_pk primary key(id);
+                      );
+
+//FK제약조건
+CREATE TABLE emp_second(
+eno        NUMBER(4) constraint emp_second_eno_pk primary key,
+ename   VARCHAR2(10),
+Job        VARCHAR2(9),
+dno        VARCHAR2(9),
+CONSTRAINT emp_second_dno_FK references department );
+
+//디폴트 제약조건
+CREATE TABLE emp_second(
+eno        NUMBER(4) constraint emp_second_eno_pk primary key,
+ename   VARCHAR2(10),
+salary   NUMBER(7 ,2) default 1000 );
+
+//제약조건 추가                      
+ALTER TABLE customer1
+ADD CONSTRAINT customer_id_pk primary key(id);
+
+//FK제약조건 추가
+ALTER TABLE customer1
+ADD CONSTRAINT customer_id_fk foreign key(id)
+REFERENCES DEPARTMENT (id);
+
+//제약조건 제거
+ALTER TABLE emp_copy
+  DROP   PRIMARY KEY ;
+
+//제약조건 비활성화
+ALTER TABLE emp_copy
+  DISABLE CONSTRAINT emp_copy_dno_fk ;
+
+//제약조건 활성화  
+ALTER TABLE emp_copy
+ENABLE CONSTRAINT emp_copy_eno_fk ;

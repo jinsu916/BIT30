@@ -1,0 +1,65 @@
+//DML
+//테이블 복사 (데이터제외)
+create table exam2_copy
+as
+select *
+from EXAM2
+where 0 = 1;
+
+//인서트
+//정보입력
+insert into exam2_copy
+values (5, 'do', '14/12/12');
+
+//정보입력2
+insert into exam2_copy (DNO,DNAME)
+values (2, 'zo');
+
+//널 입력
+insert into exam2_copy (dno)
+values (3);
+
+//널 입력2
+insert into exam2_copy 
+values (4, null);
+
+//날짜 입력
+insert into exam2_copy
+values (4, '', '2019/09/17');
+
+//업데이트
+update exam2_copy
+set dday = '1994/09/16'
+where dno = 1;
+
+//업데이트 다중
+update exam2_copy
+set dname = 'ro', dday = '93/07/05'
+where dno = 3;
+
+//업데이트 서브쿼리
+update exam2_copy
+set dno = (select dno
+          from exam2_copy
+          where dname = 'zo')
+where dno = 3;
+
+//업데이트 서브쿼리 다중
+update exam2_copy
+set dno = (select dno
+          from exam2_copy
+          where dname = 'jo'),
+    dday = (select dday
+          from exam2_copy
+          where dname = 'jo')
+where dno = 4;
+
+//삭제
+delete exam2_copy
+where dname = 'ro';
+
+//삭제 서브쿼리
+delete exam2_copy
+where dno = (select dno
+             from MEMBER
+             where dname = 'do');

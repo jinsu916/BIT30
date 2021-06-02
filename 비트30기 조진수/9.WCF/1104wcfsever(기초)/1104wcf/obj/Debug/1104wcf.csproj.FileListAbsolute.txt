@@ -1,0 +1,7 @@
+C:\Users\bit\Desktop\WCF(1104)\1104wcf\1104wcf\bin\Debug\1104wcf.exe.config
+C:\Users\bit\Desktop\WCF(1104)\1104wcf\1104wcf\bin\Debug\1104wcf.exe
+C:\Users\bit\Desktop\WCF(1104)\1104wcf\1104wcf\bin\Debug\1104wcf.pdb
+C:\Users\bit\Desktop\WCF(1104)\1104wcf\1104wcf\obj\Debug\1104wcf.csprojAssemblyReference.cache
+C:\Users\bit\Desktop\WCF(1104)\1104wcf\1104wcf\obj\Debug\1104wcf.csproj.CoreCompileInputs.cache
+C:\Users\bit\Desktop\WCF(1104)\1104wcf\1104wcf\obj\Debug\1104wcf.exe
+C:\Users\bit\Desktop\WCF(1104)\1104wcf\1104wcf\obj\Debug\1104wcf.pdb

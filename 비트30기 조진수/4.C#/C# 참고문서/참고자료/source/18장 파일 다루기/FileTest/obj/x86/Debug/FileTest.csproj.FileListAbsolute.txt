@@ -1,0 +1,5 @@
+C:\Users\Administrator\Desktop\C#뇌를자극하는\source\18장 파일 다루기\FileTest\bin\Debug\ConsoleApplication1.exe
+C:\Users\Administrator\Desktop\C#뇌를자극하는\source\18장 파일 다루기\FileTest\bin\Debug\ConsoleApplication1.pdb
+C:\Users\Administrator\Desktop\C#뇌를자극하는\source\18장 파일 다루기\FileTest\obj\x86\Debug\FileTest.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\C#뇌를자극하는\source\18장 파일 다루기\FileTest\obj\x86\Debug\ConsoleApplication1.exe
+C:\Users\Administrator\Desktop\C#뇌를자극하는\source\18장 파일 다루기\FileTest\obj\x86\Debug\ConsoleApplication1.pdb

@@ -1,0 +1,7 @@
+C:\Users\bit\Desktop\C#\0926Collection\0926Collection\bin\Debug\0926Collection.exe.config
+C:\Users\bit\Desktop\C#\0926Collection\0926Collection\bin\Debug\0926Collection.exe
+C:\Users\bit\Desktop\C#\0926Collection\0926Collection\bin\Debug\0926Collection.pdb
+C:\Users\bit\Desktop\C#\0926Collection\0926Collection\obj\Debug\0926Collection.csproj.CoreCompileInputs.cache
+C:\Users\bit\Desktop\C#\0926Collection\0926Collection\obj\Debug\0926Collection.exe
+C:\Users\bit\Desktop\C#\0926Collection\0926Collection\obj\Debug\0926Collection.pdb
+C:\Users\bit\Desktop\C#\0926Collection\0926Collection\obj\Debug\0926Collection.csprojAssemblyReference.cache

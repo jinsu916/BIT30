@@ -1,0 +1,7 @@
+C:\Users\bit\Desktop\0925\0925\bin\Debug\0925.exe.config
+C:\Users\bit\Desktop\0925\0925\bin\Debug\0925.exe
+C:\Users\bit\Desktop\0925\0925\bin\Debug\0925.pdb
+C:\Users\bit\Desktop\0925\0925\obj\Debug\0925.csprojAssemblyReference.cache
+C:\Users\bit\Desktop\0925\0925\obj\Debug\0925.csproj.CoreCompileInputs.cache
+C:\Users\bit\Desktop\0925\0925\obj\Debug\0925.exe
+C:\Users\bit\Desktop\0925\0925\obj\Debug\0925.pdb

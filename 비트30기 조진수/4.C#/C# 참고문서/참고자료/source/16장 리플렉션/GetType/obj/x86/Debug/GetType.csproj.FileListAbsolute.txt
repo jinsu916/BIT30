@@ -1,0 +1,6 @@
+C:\Users\Administrator\Desktop\C#뇌를자극하는\source\16장 리플렉션\GetType\bin\Debug\GetType.exe.config
+C:\Users\Administrator\Desktop\C#뇌를자극하는\source\16장 리플렉션\GetType\bin\Debug\GetType.exe
+C:\Users\Administrator\Desktop\C#뇌를자극하는\source\16장 리플렉션\GetType\bin\Debug\GetType.pdb
+C:\Users\Administrator\Desktop\C#뇌를자극하는\source\16장 리플렉션\GetType\obj\x86\Debug\GetType.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\C#뇌를자극하는\source\16장 리플렉션\GetType\obj\x86\Debug\GetType.exe
+C:\Users\Administrator\Desktop\C#뇌를자극하는\source\16장 리플렉션\GetType\obj\x86\Debug\GetType.pdb

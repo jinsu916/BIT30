@@ -1,0 +1,40 @@
+C:\Users\bit\Desktop\WPF\1028\1028\bin\Debug\1028.exe.config
+C:\Users\bit\Desktop\WPF\1028\1028\bin\Debug\1028.exe
+C:\Users\bit\Desktop\WPF\1028\1028\bin\Debug\1028.pdb
+C:\Users\bit\Desktop\WPF\1028\1028\obj\Debug\MainWindow.g.cs
+C:\Users\bit\Desktop\WPF\1028\1028\obj\Debug\App.g.cs
+C:\Users\bit\Desktop\WPF\1028\1028\obj\Debug\1028_MarkupCompile.cache
+C:\Users\bit\Desktop\WPF\1028\1028\obj\Debug\1028_MarkupCompile.lref
+C:\Users\bit\Desktop\WPF\1028\1028\obj\Debug\MainWindow.baml
+C:\Users\bit\Desktop\WPF\1028\1028\obj\Debug\1028.g.resources
+C:\Users\bit\Desktop\WPF\1028\1028\obj\Debug\_1028.Properties.Resources.resources
+C:\Users\bit\Desktop\WPF\1028\1028\obj\Debug\1028.csproj.GenerateResource.cache
+C:\Users\bit\Desktop\WPF\1028\1028\obj\Debug\1028.csproj.CoreCompileInputs.cache
+C:\Users\bit\Desktop\WPF\1028\1028\obj\Debug\1028.exe
+C:\Users\bit\Desktop\WPF\1028\1028\obj\Debug\1028.pdb
+C:\Users\bit\Desktop\WPF\1028\1028\obj\Debug\Window1.g.cs
+C:\Users\bit\Desktop\WPF\1028\1028\obj\Debug\Window1.baml
+C:\Users\bit\Desktop\WPF\1028\1028\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\bit\Desktop\WPF\1028\1028\obj\Debug\Window2.g.cs
+C:\Users\bit\Desktop\WPF\1028\1028\obj\Debug\Window2.baml
+C:\Users\bit\Desktop\WPF\1028\1028\obj\Debug\1028.csprojAssemblyReference.cache
+E:\비트30기 조진수\8.WPF\1028 전화번호부\1028\bin\Debug\1028.exe.config
+E:\비트30기 조진수\8.WPF\1028 전화번호부\1028\bin\Debug\1028.exe
+E:\비트30기 조진수\8.WPF\1028 전화번호부\1028\bin\Debug\1028.pdb
+E:\비트30기 조진수\8.WPF\1028 전화번호부\1028\obj\Debug\1028.csprojAssemblyReference.cache
+E:\비트30기 조진수\8.WPF\1028 전화번호부\1028\obj\Debug\MainWindow.g.cs
+E:\비트30기 조진수\8.WPF\1028 전화번호부\1028\obj\Debug\Window1.g.cs
+E:\비트30기 조진수\8.WPF\1028 전화번호부\1028\obj\Debug\Window2.g.cs
+E:\비트30기 조진수\8.WPF\1028 전화번호부\1028\obj\Debug\App.g.cs
+E:\비트30기 조진수\8.WPF\1028 전화번호부\1028\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\비트30기 조진수\8.WPF\1028 전화번호부\1028\obj\Debug\1028_MarkupCompile.cache
+E:\비트30기 조진수\8.WPF\1028 전화번호부\1028\obj\Debug\1028_MarkupCompile.lref
+E:\비트30기 조진수\8.WPF\1028 전화번호부\1028\obj\Debug\MainWindow.baml
+E:\비트30기 조진수\8.WPF\1028 전화번호부\1028\obj\Debug\Window1.baml
+E:\비트30기 조진수\8.WPF\1028 전화번호부\1028\obj\Debug\Window2.baml
+E:\비트30기 조진수\8.WPF\1028 전화번호부\1028\obj\Debug\1028.g.resources
+E:\비트30기 조진수\8.WPF\1028 전화번호부\1028\obj\Debug\_1028.Properties.Resources.resources
+E:\비트30기 조진수\8.WPF\1028 전화번호부\1028\obj\Debug\1028.csproj.GenerateResource.cache
+E:\비트30기 조진수\8.WPF\1028 전화번호부\1028\obj\Debug\1028.csproj.CoreCompileInputs.cache
+E:\비트30기 조진수\8.WPF\1028 전화번호부\1028\obj\Debug\1028.exe
+E:\비트30기 조진수\8.WPF\1028 전화번호부\1028\obj\Debug\1028.pdb

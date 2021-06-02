@@ -1,0 +1,5 @@
+D:\고급30기\05_C#\sample\0926 Collection\0926 Collection\bin\Debug\0926 Collection.exe.config
+D:\고급30기\05_C#\sample\0926 Collection\0926 Collection\bin\Debug\0926 Collection.exe
+D:\고급30기\05_C#\sample\0926 Collection\0926 Collection\bin\Debug\0926 Collection.pdb
+D:\고급30기\05_C#\sample\0926 Collection\0926 Collection\obj\Debug\0926 Collection.exe
+D:\고급30기\05_C#\sample\0926 Collection\0926 Collection\obj\Debug\0926 Collection.pdb

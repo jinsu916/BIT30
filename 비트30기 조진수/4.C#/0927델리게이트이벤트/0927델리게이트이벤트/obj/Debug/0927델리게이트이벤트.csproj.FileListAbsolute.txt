@@ -1,0 +1,7 @@
+C:\Users\bit\Desktop\C#\0927델리게이트이벤트\0927델리게이트이벤트\bin\Debug\0927델리게이트이벤트.exe.config
+C:\Users\bit\Desktop\C#\0927델리게이트이벤트\0927델리게이트이벤트\bin\Debug\0927델리게이트이벤트.exe
+C:\Users\bit\Desktop\C#\0927델리게이트이벤트\0927델리게이트이벤트\bin\Debug\0927델리게이트이벤트.pdb
+C:\Users\bit\Desktop\C#\0927델리게이트이벤트\0927델리게이트이벤트\obj\Debug\0927델리게이트이벤트.csproj.CoreCompileInputs.cache
+C:\Users\bit\Desktop\C#\0927델리게이트이벤트\0927델리게이트이벤트\obj\Debug\0927델리게이트이벤트.exe
+C:\Users\bit\Desktop\C#\0927델리게이트이벤트\0927델리게이트이벤트\obj\Debug\0927델리게이트이벤트.pdb
+C:\Users\bit\Desktop\C#\0927델리게이트이벤트\0927델리게이트이벤트\obj\Debug\0927델리게이트이벤트.csprojAssemblyReference.cache

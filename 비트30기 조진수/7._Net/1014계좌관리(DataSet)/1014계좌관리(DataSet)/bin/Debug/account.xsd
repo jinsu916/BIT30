@@ -1,0 +1,28 @@
+<?xml version="1.0" standalone="yes"?>
+<xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+  <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:MainDataTable="Account" msdata:UseCurrentLocale="true">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="Account">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="ACCID" msdata:AutoIncrement="true" msdata:AutoIncrementSeed="1" type="xs:int" />
+              <xs:element name="ACCNUMBER" type="xs:int" />
+              <xs:element name="CNAME" type="xs:string" minOccurs="0" />
+              <xs:element name="BALANCE" type="xs:int" default="0" />
+              <xs:element name="DATE" type="xs:dateTime" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+    <xs:unique name="Constraint1">
+      <xs:selector xpath=".//Account" />
+      <xs:field xpath="ACCNUMBER" />
+    </xs:unique>
+    <xs:unique name="Constraint2" msdata:PrimaryKey="true">
+      <xs:selector xpath=".//Account" />
+      <xs:field xpath="ACCID" />
+    </xs:unique>
+  </xs:element>
+</xs:schema>

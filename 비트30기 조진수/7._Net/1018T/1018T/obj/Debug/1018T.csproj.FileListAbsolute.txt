@@ -1,0 +1,20 @@
+C:\Users\bit\Desktop\1018T\1018T\bin\Debug\1018T.exe.config
+C:\Users\bit\Desktop\1018T\1018T\bin\Debug\1018T.exe
+C:\Users\bit\Desktop\1018T\1018T\bin\Debug\1018T.pdb
+C:\Users\bit\Desktop\1018T\1018T\obj\Debug\1018T.csprojAssemblyReference.cache
+C:\Users\bit\Desktop\1018T\1018T\obj\Debug\_1018T.Form1.resources
+C:\Users\bit\Desktop\1018T\1018T\obj\Debug\_1018T.Properties.Resources.resources
+C:\Users\bit\Desktop\1018T\1018T\obj\Debug\1018T.csproj.GenerateResource.cache
+C:\Users\bit\Desktop\1018T\1018T\obj\Debug\1018T.csproj.CoreCompileInputs.cache
+C:\Users\bit\Desktop\1018T\1018T\obj\Debug\1018T.exe
+C:\Users\bit\Desktop\1018T\1018T\obj\Debug\1018T.pdb
+E:\비트30기 조진수\7._Net\1018T\1018T\bin\Debug\1018T.exe.config
+E:\비트30기 조진수\7._Net\1018T\1018T\bin\Debug\1018T.exe
+E:\비트30기 조진수\7._Net\1018T\1018T\bin\Debug\1018T.pdb
+E:\비트30기 조진수\7._Net\1018T\1018T\obj\Debug\1018T.csprojAssemblyReference.cache
+E:\비트30기 조진수\7._Net\1018T\1018T\obj\Debug\_1018T.Form1.resources
+E:\비트30기 조진수\7._Net\1018T\1018T\obj\Debug\_1018T.Properties.Resources.resources
+E:\비트30기 조진수\7._Net\1018T\1018T\obj\Debug\1018T.csproj.GenerateResource.cache
+E:\비트30기 조진수\7._Net\1018T\1018T\obj\Debug\1018T.csproj.CoreCompileInputs.cache
+E:\비트30기 조진수\7._Net\1018T\1018T\obj\Debug\1018T.exe
+E:\비트30기 조진수\7._Net\1018T\1018T\obj\Debug\1018T.pdb

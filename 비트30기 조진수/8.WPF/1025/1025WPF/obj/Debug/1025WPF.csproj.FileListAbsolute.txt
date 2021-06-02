@@ -1,0 +1,7 @@
+C:\Users\bit\Desktop\WPF\1025WPF\1025WPF\bin\Debug\1025WPF.exe.config
+C:\Users\bit\Desktop\WPF\1025WPF\1025WPF\bin\Debug\1025WPF.exe
+C:\Users\bit\Desktop\WPF\1025WPF\1025WPF\bin\Debug\1025WPF.pdb
+C:\Users\bit\Desktop\WPF\1025WPF\1025WPF\obj\Debug\1025WPF.csprojAssemblyReference.cache
+C:\Users\bit\Desktop\WPF\1025WPF\1025WPF\obj\Debug\1025WPF.csproj.CoreCompileInputs.cache
+C:\Users\bit\Desktop\WPF\1025WPF\1025WPF\obj\Debug\1025WPF.exe
+C:\Users\bit\Desktop\WPF\1025WPF\1025WPF\obj\Debug\1025WPF.pdb

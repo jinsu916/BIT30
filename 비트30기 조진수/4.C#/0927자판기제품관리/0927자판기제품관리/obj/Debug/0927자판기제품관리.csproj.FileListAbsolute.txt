@@ -1,0 +1,7 @@
+C:\Users\bit\Desktop\C#\0927자판기제품관리\0927자판기제품관리\bin\Debug\0927자판기제품관리.exe.config
+C:\Users\bit\Desktop\C#\0927자판기제품관리\0927자판기제품관리\bin\Debug\0927자판기제품관리.exe
+C:\Users\bit\Desktop\C#\0927자판기제품관리\0927자판기제품관리\bin\Debug\0927자판기제품관리.pdb
+C:\Users\bit\Desktop\C#\0927자판기제품관리\0927자판기제품관리\obj\Debug\0927자판기제품관리.csprojAssemblyReference.cache
+C:\Users\bit\Desktop\C#\0927자판기제품관리\0927자판기제품관리\obj\Debug\0927자판기제품관리.csproj.CoreCompileInputs.cache
+C:\Users\bit\Desktop\C#\0927자판기제품관리\0927자판기제품관리\obj\Debug\0927자판기제품관리.exe
+C:\Users\bit\Desktop\C#\0927자판기제품관리\0927자판기제품관리\obj\Debug\0927자판기제품관리.pdb

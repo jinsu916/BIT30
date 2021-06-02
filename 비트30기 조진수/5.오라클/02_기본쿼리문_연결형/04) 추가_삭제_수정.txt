@@ -1,0 +1,95 @@
+using System;
+using System.Data;
+using System.Data.SqlClient;
+
+namespace OleDbDataReaderApp
+{
+    public class SqlDR
+    {
+        SqlConnection sql_cn;
+
+        static void Main()
+        {
+            //OleDbDR ole = new OleDbDR();
+            SqlDR sql = new SqlDR();
+
+            sql.Connect();
+
+            sql.Insert();
+
+            sql.Update();
+
+            sql.Delete();
+        }
+
+        // DB 연결
+        public void Connect()
+        {
+            sql_cn = new SqlConnection();
+
+            sql_cn.ConnectionString = @"Server=localhost\sqlexpress;database=ADO;uid=ccm;pwd=1111;";
+            
+            sql_cn.Open();
+        }
+
+
+        public void Insert()
+        {
+            // SQL INSERT 수행문
+            string sql = "INSERT INTO MEMBER" +
+                "(id, pwd, phone, address, age) VALUES" +
+                "('777', '777', '777', '777', '777')";
+
+            // 레코드 삽입
+            SqlCommand cmd = new SqlCommand(sql, sql_cn);
+
+            try
+            {
+                cmd.ExecuteNonQuery();
+            }
+            catch (Exception ex)
+            {
+                Console.WriteLine(ex.Message);
+            }
+
+
+        }
+        public void Delete()
+        {
+            string sql = "Delete from member where id = '1'";
+
+            SqlCommand cmd = new SqlCommand(sql, sql_cn);
+
+            try
+            {
+                cmd.ExecuteNonQuery();
+            }
+            catch (Exception ex)
+            {
+                Console.WriteLine(ex.Message);
+            }
+            sql_cn.Close();
+        }
+
+        public void Update()
+        {
+            string sql = "UPDATE member SET address = '대전' WHERE id = '2'";
+
+            SqlCommand cmd = new SqlCommand(sql, sql_cn);
+
+            try
+            {
+                cmd.ExecuteNonQuery();
+            }
+            catch (Exception ex)
+            {
+                Console.WriteLine(ex.Message);
+            }
+
+
+        }
+       
+        
+    }
+}
+

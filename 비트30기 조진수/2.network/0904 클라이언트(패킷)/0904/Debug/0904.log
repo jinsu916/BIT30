@@ -1,0 +1,2 @@
+﻿handler.obj : error LNK2019: "void __cdecl ui_SetInfoData(struct tagINSERT *)" (?ui_SetInfoData@@YAXPAUtagINSERT@@@Z) 외부 기호(참조 위치: "void __cdecl recvmessage(char *,int)" (?recvmessage@@YAXPADH@Z) 함수)에서 확인하지 못했습니다.
+C:\Users\bit\Desktop\network\0904\Debug\0904.exe : fatal error LNK1120: 1개의 확인할 수 없는 외부 참조입니다.

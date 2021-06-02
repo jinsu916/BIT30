@@ -1,0 +1,6 @@
+D:\고급30기\06_WinForm\sample\0930\0930\bin\Debug\0930.exe.config
+D:\고급30기\06_WinForm\sample\0930\0930\bin\Debug\0930.exe
+D:\고급30기\06_WinForm\sample\0930\0930\bin\Debug\0930.pdb
+D:\고급30기\06_WinForm\sample\0930\0930\obj\Debug\0930.csprojResolveAssemblyReference.cache
+D:\고급30기\06_WinForm\sample\0930\0930\obj\Debug\0930.exe
+D:\고급30기\06_WinForm\sample\0930\0930\obj\Debug\0930.pdb

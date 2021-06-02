@@ -1,0 +1,26 @@
+//start.cpp
+//대화상자 기반(p.150)
+#include "std.h"
+
+BOOL CALLBACK Digoroc(HWND hDlg, UINT msg, WPARAM wParam, LPARAM lparam)
+{
+	switch (msg)
+	{
+	case WM_INITDIALOG:{}
+					   return TRUE;
+	case WM_COMMAND:
+		switch (LOWORD(wParam))
+		{
+		case IDCANCEL: EndDialog(hDlg, IDCANCEL); return 0;
+		}
+		return TRUE;
+	}
+	return FALSE;
+}
+
+int WINAPI _tWinMain(HINSTANCE hinst, HINSTANCE, LPTSTR IpCmdLine, int nShowCmd)
+{
+	UINT ret = DialogBox(hinst, MAKEINTRESOURCE(IDD_DIALOG1), 0, DigProc);
+
+	return 0;
+}

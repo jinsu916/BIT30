@@ -1,0 +1,29 @@
+INSERT------------------------------------------------
+INSERT INTO Product(PNAME,Price,Description)
+VALUES ('말보루','2500','해로워요')
+
+INSERT INTO Custom(CNAME, PHONE, ADDR)
+VALUES('조진수','1111','태평동')
+
+INSERT INTO Sale(PID,CID,COUNT,SaleDate)
+VALUES('1','1','20',GETDATE())
+-------------------------------------------------------
+UPDATE----------------------------------------------
+UPDATE   Product
+SET Price ='20000'
+WHERE PID = '1'
+
+UPDATE   Custom
+SET PHONE ='010-1111-2222' , ADDR = '서울'
+WHERE CID = '1'
+
+UPDATE   Sale
+SET COUNT = '30'
+WHERE SID = '1'
+-------------------------------------------------------
+DELETE------------------------------------------------
+DELETE FROM Product where PID=1
+
+DELETE FROM Custom where CID=1
+
+DELETE FROM Sale where SID=1
