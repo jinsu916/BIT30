@@ -131,7 +131,7 @@ namespace _0923
         }
         static void Main(string[] args)
         {
-            Print7();
+            Print5();
         }
     }
 }
